@@ -1,0 +1,67 @@
+body{
+  background: url(Athena.Saori.png) no-repeat center center fixed;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+  font-family: 'Handlee', cursive;
+  margin: 0px;
+  padding: 0px;
+}
+
+p{
+  color:#ccc;
+}
+
+div{
+  text-align: center;
+  padding: 5px;
+}
+
+h1{
+  color: #FF7A84;
+  font-family: 'Handlee', cursive;
+}
+
+#succes{
+  color: #85EBC3;
+}
+
+.error, td, th{
+  text-align: center;
+  border-collapse: collapse;
+  margin: 0 auto;
+  color: #FF1493;
+}
+
+th, td {
+  padding: 5px;
+  border: 1px solid #dddddd;
+}
+
+#menu ul {
+    list-style-type: none;
+    margin: 0px;
+    padding: 0px;
+    width: 200px;
+    font-family: 'Handlee', cursive;
+    font-size: 11pt;
+}
+
+#menu ul li {
+    background-color: #666;
+}
+
+#menu ul li a {
+    color: #ccc;
+    text-decoration: none;
+    text-transform: uppercase;
+    display: block;
+    padding: 10px 10px 10px 20px;
+}
+
+#menu ul li a:hover {
+    background: #000;
+    border-left: 10px solid #333;
+    color: #fff;
+}

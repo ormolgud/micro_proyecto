@@ -1,0 +1,61 @@
+
+#title{
+  font-family:'Handlee', cursive;
+  color:#553A59;
+  font-size:14px;
+  margin: 10px;
+}
+
+div{
+    padding:50px;
+}
+
+#contentform{
+  position: absolute;
+  top:50%;
+  left:50%;
+  width:300px;
+  margin-left:-150px;
+  height:300px;
+  margin-top:-150px;
+  background-color:rgba(255, 255, 255, 0.5);
+  border-radius:0px;
+  font-family: 'Handlee', cursive;
+  color:#394247;
+}
+
+#contentformR{
+  position: absolute;
+  top:50%;
+  left:50%;
+  width:600px;
+  margin-left:-300px;
+  height:600px;
+  margin-top:-300px;
+  background-color:rgba(255, 255, 255, 0.5);
+  border-radius:0px;
+  font-family: 'Handlee', cursive;
+  color:#394247;
+}
+#contentForm{
+  position: absolute;
+  top:50%;
+  left:50%;
+  width:300px;
+  margin-left:-150px;
+  height:300px;
+  margin-top:-150px;
+  background-color:rgba(255, 255, 255, 0.5);
+  border-radius:0px;
+  font-family: 'Handlee', cursive;
+  color:#394247;
+}
+
+svg {
+  position: absolute;
+  width: 400px;
+  height: 400px;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+}
